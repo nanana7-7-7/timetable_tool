@@ -43,7 +43,3 @@ python timetable.py --next   # 来週の時間割
 - 繰り返し予定（RRULE）の週内展開には `recurring-ical-events` を使用
 - 日時はすべて Asia/Tokyo にそろえて表示
 - 複数カレンダーを読んだ場合、同一予定の重複は自動で除去
-
-## 作者
-
-太田海翔（電気・情報系の大学3年生）
